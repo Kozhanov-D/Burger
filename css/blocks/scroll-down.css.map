@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,YAAa;EACX,QAAQ,EAAE,QAAQ;EAClB,MAAM,EAAE,IAAI;EACZ,IAAI,EAAE,GAAG;EACT,SAAS,EAAE,aAAa",
+"sources": ["scroll-down.scss"],
+"names": [],
+"file": "scroll-down.css"
+}

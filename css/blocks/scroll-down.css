@@ -1,0 +1,7 @@
+.scroll-down {
+  position: absolute;
+  bottom: 40px;
+  left: 50%;
+  transform: rotateX(-50%); }
+
+/*# sourceMappingURL=scroll-down.css.map */
